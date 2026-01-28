@@ -1,5 +1,5 @@
 # toxin_potency_over_concentration
-This readme file was generated on 2025-12-02 by Paola Rubiano-Buitrago
+This readme file was generated on 2025-12-02 by Paola Rubiano-Buitrago, and corresponds to the content of the zip folder, in this project
 
 #GENERAL INFORMATION
 
